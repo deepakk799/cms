@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--main--cms.hlx.page/
-- Live: https://main--main--cms.hlx.live/
+- Preview: https://main--cms--deepakk799.hlx.page/
+- Live: https://main--cms--deepakk799.hlx.live/
 
 ## Installation
 
